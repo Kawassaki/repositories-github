@@ -15,4 +15,4 @@ Check here how to install node, please select the stable version [Node](https://
 * Then run ```yarn start ```. to listen the app on:```http://localhost:3000/#/```
 
 ### Using the app
-* On screen Repositories, to find a repo you need to follow the pattern: <user_of_github>;<name_of_project>, then you click in add and wait for result on your main list, you can access the Details of that project too.
+* On screen Repositories, to find a repo you need to follow the pattern: <user_of_github>/<name_of_project>, then you click in add and wait for result on your main list, you can access the Details of that project too.
