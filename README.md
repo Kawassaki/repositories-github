@@ -15,7 +15,7 @@ Application developed in React that shows repos from git hub e its details and i
 * Step 4: To you check all issues that was created in your repository, just open details too, it will appears below the description as a list:
 <img src="./src/assets/readmeImages/Screen5.jpg" alt="alt text" width="600" >
 
-# Setting  enviroment up
+# Setting the enviroment up
 ### Configure Node.js
 Check here how to install node, please select the stable version [Node](https://nodejs.org/en/).
 
